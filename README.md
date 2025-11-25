@@ -4,8 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Type
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -28,6 +27,13 @@ Some of the places you can reach me at are:
 
 Just graduated University.
 I'm a fullstack developer developer, but I have been getting more into AI and low level programming.
+
+My Skills Include:
+- Javascript
+- Typescript
+- React
+- Python
+- C
 
 
 ![Akshays's GitHub stats](https://github-readme-stats.vercel.app/api?username=L0neGunman46&hide=stars&theme=tokyonight&show_icons=true&bg_color=fffefe&border_radius=20)
