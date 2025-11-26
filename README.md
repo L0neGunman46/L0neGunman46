@@ -36,6 +36,6 @@ My Skills Include:
 - C
 
 
-![Akshays's GitHub stats](https://github-readme-stats.vercel.app/api?username=L0neGunman46&hide=stars&theme=tokyonight&show_icons=true&bg_color=fffefe&border_radius=20)
+<!-- ![Akshays's GitHub stats](https://github-readme-stats.vercel.app/api?username=L0neGunman46&hide=stars&theme=tokyonight&show_icons=true&bg_color=fffefe&border_radius=20) -->
 
 </div>
