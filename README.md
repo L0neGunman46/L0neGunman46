@@ -29,11 +29,16 @@ Just graduated University.
 I'm a fullstack developer developer, but I have been getting more into AI and low level programming.
 
 My Skills Include:
-- Javascript
 - Typescript
 - React
 - Python
-- C
+- NextJs
+- Tanstack Start
+- Prisma
+- Clerk
+- BetterAuth
+- Django
+- Golang
 
 
 <!-- ![Akshays's GitHub stats](https://github-readme-stats.vercel.app/api?username=L0neGunman46&hide=stars&theme=tokyonight&show_icons=true&bg_color=fffefe&border_radius=20) -->
