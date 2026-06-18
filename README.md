@@ -54,7 +54,7 @@
 Some of the places you can reach me at are:
 
 - Website: [akshaysg.com](https://www.akshaysg.com)
-- Linkedin: [Akshay SG](https://www.linkedin.com/in/akshaysg4
+- Linkedin: [Akshay SG](https://www.linkedin.com/in/akshaysg4)
 
 Software Engineer with experience building performant and maintainable applications,
 
