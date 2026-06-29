@@ -53,8 +53,8 @@
 </p>
 Some of the places you can reach me at are:
 
-- Website: [akshaysg.com](https://www.akshaysg.com)
-- Linkedin: [Akshay SG](https://www.linkedin.com/in/akshaysg4)
+- Website: <i>[akshaysg.com](https://www.akshaysg.com)</i>
+- Linkedin:<i>[Akshay SG](https://www.linkedin.com/in/akshaysg4)</i>
 
 Software Engineer with experience building performant and maintainable applications,
 
